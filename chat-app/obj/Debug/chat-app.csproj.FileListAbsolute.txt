@@ -1,0 +1,10 @@
+D:\FCI\C#projects\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\FCI\C#projects\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\FCI\C#projects\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\FCI\C#projects\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\FCI\C#projects\chat-app\chat-app\obj\Debug\chat-app.csproj.GenerateResource.Cache
+D:\FCI\C#projects\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\FCI\C#projects\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\FCI\C#projects\chat-app\chat-app\obj\Debug\chat_app.Login.resources
+D:\FCI\C#projects\chat-app\chat-app\obj\Debug\chat_app.Forms.Chat.resources
+D:\FCI\C#projects\chat-app\chat-app\obj\Debug\chat_app.Forms.updateData.resources
